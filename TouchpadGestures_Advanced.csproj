@@ -57,6 +57,8 @@
     <None Update="Icon\TGA_icon.ico">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    
+    
   </ItemGroup>
 
   <ItemGroup>
